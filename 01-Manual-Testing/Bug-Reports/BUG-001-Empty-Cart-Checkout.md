@@ -51,9 +51,11 @@ Users can complete orders containing no products, creating invalid $0.00 transac
 
 ## Evidence
 
-- Checkout Overview showing zero products and a $0.00 total.
-- Order Confirmation showing successful completion of the empty order.
-- Generated PDF receipt showing zero products and a $0.00 total.
+## Evidence
+
+- [View Empty Cart Checkout Overview](../Evidence/BUG-001-Empty-Cart-Overview.png)
+- [View Empty Order Confirmation](../Evidence/BUG-001-Empty-Order-Confirmation.png)
+- [View Empty Order PDF Receipt](../Evidence/BUG-001-Empty-Order-PDF-Receipt.png)
 
 - ## Notes
 
