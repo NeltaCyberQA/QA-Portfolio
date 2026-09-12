@@ -38,5 +38,5 @@
 |---|---|
 | Actual Result | Login was unsuccessful, the user remained on the Login page, and the validation message "Epic sadface: Username is required" was displayed. |
 | Status | PASS |
-| Evidence | Screenshot captured showing the blank Username field and the "Epic sadface: Username is required" validation message. |
+| Evidence | [View TC-003 Execution Screenshot](../Evidence/TC-003-Blank-Username.png) |
 | Defect ID | N/A |
