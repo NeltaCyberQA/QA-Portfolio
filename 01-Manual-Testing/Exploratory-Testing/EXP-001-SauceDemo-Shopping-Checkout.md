@@ -78,3 +78,8 @@ Two potential requirement gaps were identified for further clarification:
 
 These observations require confirmation of the intended business requirements before they can be classified as defects.
 
+## Test Evidence
+
+- [View Checkout Overview — Calculation Validation](../Evidence/EXP-001-Checkout-Overview.png)
+- [View Order Completion — Successful Checkout](../Evidence/EXP-001-Order-Complete.png)
+- [View Generated PDF Order Receipt](../Evidence/EXP-001-PDF-Receipt.png)
