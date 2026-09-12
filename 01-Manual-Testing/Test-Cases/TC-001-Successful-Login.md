@@ -39,5 +39,5 @@
 |---|---|
 | Actual Result | The customer was successfully authenticated and redirected to `/inventory.html`. |
 | Status | PASS |
-| Evidence | Screenshot showing the Products page and `/inventory.html` URL. |
+| Evidence | [View TC-001 Execution Screenshot](../Evidence/TC-001-Successful-Login.png) |
 | Defect ID | N/A |
