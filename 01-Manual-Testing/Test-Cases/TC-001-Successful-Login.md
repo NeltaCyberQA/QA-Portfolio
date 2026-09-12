@@ -9,7 +9,7 @@
 | Feature | User Login |
 | Test Type | Functional / Positive |
 | Priority | High |
-| Status | Not Executed |
+| Status | PASS |
 
 ## Preconditions
 
@@ -21,23 +21,23 @@
 
 | Field | Test Data |
 |---|---|
-| Email | nelta.qa@test.com |
-| Password | DisneyGirl1123! |
+| Email | standard_user |
+| Password | secret_sauce |
 
 ## Test Steps
 
 | Step | Action | Expected Result |
 |---|---|---|
 | 1 | Navigate to the Login page in the QA/Staging environment. | The Login page is displayed successfully. |
-| 2 | Enter `nelta.qa@test.com` in the Email field. | The email address is accepted and displayed in the Email field. |
-| 3 | Enter `DisneyGirl1123!` in the Password field. | The password is accepted and displayed as masked characters. |
-| 4 | Click the Login button. | The customer is successfully authenticated and redirected to `/account/dashboard`. |
+| 2 | Enter `standard_user` in the Email field. | The email address is accepted and displayed in the Email field. |
+| 3 | Enter `secret_sauce` in the Password field. | The password is accepted and displayed as masked characters. |
+| 4 | Click the Login button. | The user is successfully authenticated and redirected to `/inventory.html`. |
 
 ## Execution Results
 
 | Field | Result |
 |---|---|
-| Actual Result | Not Executed |
-| Status | Not Executed |
-| Evidence | Not Available |
+| Actual Result | The customer was successfully authenticated and redirected to `/inventory.html`. |
+| Status | PASS |
+| Evidence | Screenshot showing the Products page and `/inventory.html` URL. |
 | Defect ID | N/A |
