@@ -9,7 +9,7 @@
 | Feature | User Login |
 | Test Type | Functional / Negative |
 | Priority | High |
-| Status | Not Executed |
+| Status | PASS |
 
 ## Preconditions
 
@@ -36,7 +36,7 @@
 
 | Field | Result |
 |---|---|
-| Actual Result | Not Executed |
-| Status | Not Executed |
-| Evidence | Not Available |
+| Actual Result | The user remained on the Login page and the error message "Epic sadface: Username and password do not match any user in this service" was displayed. |
+| Status | PASS |
+| Evidence | Screenshot captured showing the invalid-password error message while the user remains on the Login page. |
 | Defect ID | N/A |
