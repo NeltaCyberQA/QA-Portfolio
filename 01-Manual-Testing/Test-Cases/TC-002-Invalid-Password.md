@@ -38,5 +38,5 @@
 |---|---|
 | Actual Result | The user remained on the Login page and the error message "Epic sadface: Username and password do not match any user in this service" was displayed. |
 | Status | PASS |
-| Evidence | Screenshot captured showing the invalid-password error message while the user remains on the Login page. |
+| Evidence | [View TC-002 Execution Screenshot](../Evidence/TC-002-Invalid-Password.png) |
 | Defect ID | N/A |
