@@ -24,7 +24,21 @@ This portfolio currently demonstrates hands-on manual testing of the SauceDemo e
 - Test summary reporting
 - Test evidence and documentation
 
-Additional projects covering API testing, SQL/database validation, test automation, and cybersecurity labs will be added as the portfolio develops.
+ ### API Testing
+
+I completed a hands-on REST API testing project using Postman and the JSONPlaceholder API.
+
+- Tested CRUD operations using GET, POST, PATCH, and DELETE
+- Performed positive and negative API testing
+- Validated HTTP status codes including 200, 201, and 404
+- Validated JSON response data and required fields
+- Created JavaScript assertions in Postman
+- Executed the complete collection as a functional regression test
+- Achieved 13/13 passing automated assertions with 0 failures and 0 errors
+
+📁 [View REST API Testing Project](02-API-Testing) 
+
+Additional projects covering SQL/database validation, test automation, and cybersecurity labs will be added as the portfolio develops.
 
 ## ⭐ Featured Project — SauceDemo Manual QA
 
