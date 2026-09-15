@@ -74,12 +74,13 @@ The defect was reproduced **2 out of 2 attempts** and documented with reproducti
 
 ---
 
-## 📚 Currently Building
+<div align="center">
 
-My portfolio continues to expand through hands-on projects focused on:
+### 🚀 Building My QA Career One Project at a Time
 
-- 🗄️ SQL and database validation
-- 🤖 Test automation
-- 🔐 Cybersecurity home lab and security-focused testing
+**Manual QA ✅ • API Testing ✅ • SQL 🔨 • Automation ⏳ • Cybersecurity 🔐**
 
-**Current focus:** Building practical QA skills that I can demonstrate, explain, and apply in a real software testing environment.
+*Focused on practical testing skills I can demonstrate, explain, and apply in real software environments.*
+
+</div>
+
