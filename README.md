@@ -55,36 +55,31 @@ My cybersecurity background brings a security-minded perspective to software qua
 | 🤖 Test Automation | ⏳ Planned |
 | 🔐 Cybersecurity Home Lab | ⏳ Planned |
 
+## 🏆 Project Highlights
 
+| 📋 Manual QA | 🌐 API Testing | 🐞 Defect Discovery | 🧪 Regression |
+|---|---|---|---|
+|Manual QA Test Cycle | CRUD API Coverage | BUG-001 Documented | Postman Collection Run |
+| Requirements → Results | GET • POST • PATCH • DELETE | Reproduced 2/2 Attempts | 13/13 Assertions Passed |
 
-## ⭐ Featured Project — SauceDemo Manual QA
+### 🐞 Featured Defect — BUG-001
 
-Performed end-to-end manual testing of the SauceDemo e-commerce application, covering requirements analysis, test design, test execution, exploratory testing, defect reporting, traceability, and test reporting.
+**Empty Cart Checkout Can Be Completed**
 
-### Project Results
+During exploratory testing of SauceDemo, I identified a defect allowing a user to remove all products from the cart and still complete checkout, generating a **$0.00 order receipt containing no products**.
 
-- **3** documented test cases executed
-- **3** test cases passed
-- **1** exploratory testing session completed
-- **1** reproducible defect identified and documented
-- Defect reproduced **2 out of 2 attempts**
-- Test execution supported with screenshot evidence
-- Requirements Traceability Matrix (RTM) completed
-- Test Summary Report completed
+The defect was reproduced **2 out of 2 attempts** and documented with reproduction steps, expected vs. actual results, severity, priority, business impact, and supporting evidence.
 
-### Key Defect Discovered
+➡️ **[View BUG-001 Defect Report](01-Manual-Testing/Bug-Reports/BUG-001-Empty-Cart-Checkout.md)**
 
-**BUG-001 — Empty Cart Checkout Can Be Completed**
+---
 
-During exploratory testing, I discovered that a user could remove all products from the shopping cart and still proceed through checkout. The application allowed the $0.00 order to be completed and generated a PDF order receipt containing no products.
+## 📚 Currently Building
 
-The issue was reproduced twice and documented with reproduction steps, expected and actual results, severity, priority, business impact, and supporting evidence.
+My portfolio continues to expand through hands-on projects focused on:
 
-### 🔗 Project Artifacts
+- 🗄️ SQL and database validation
+- 🤖 Test automation
+- 🔐 Cybersecurity home lab and security-focused testing
 
-- [View BUG-001 — Empty Cart Checkout Defect](01-Manual-Testing/Bug-Reports/BUG-001-Empty-Cart-Checkout.md)
-- [View EXP-001 — Shopping & Checkout Exploratory Testing](01-Manual-Testing/Exploratory-Testing/EXP-001-SauceDemo-Shopping-Checkout.md)
-- [View Requirements Traceability Matrix](01-Manual-Testing/Requirements-Traceability-Matrix.md)
-- [View Test Summary Report](01-Manual-Testing/Test-Summary-Report.md)
-- [View Manual Test Cases](01-Manual-Testing/Test-Cases/)
-- [View Test Evidence](01-Manual-Testing/Evidence/)
+**Current focus:** Building practical QA skills that I can demonstrate, explain, and apply in a real software testing environment.
