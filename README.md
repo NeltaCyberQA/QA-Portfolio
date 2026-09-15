@@ -1,44 +1,61 @@
-# Nelta | QA Analyst + Cybersecurity Foundation
+<div align="center">
 
-### Quality Assurance • Security-Minded Testing • Continuous Improvement
+# 👩🏾‍💻 NELTA CHERICHEL
 
-Welcome to my Quality Assurance portfolio.
+## Quality Assurance Analyst
 
-This portfolio documents my hands-on journey in software quality assurance, combining traditional QA practices with technical testing, test automation, AI-assisted testing, and cybersecurity principles.
+### Manual QA • API Testing • Security-Minded Testing
 
-## 🔎 Current Portfolio Focus
+🐞 **Building Quality Into Every Release**
 
-### Manual Quality Assurance
+---
 
-This portfolio currently demonstrates hands-on manual testing of the SauceDemo e-commerce web application, including:
+`Manual Testing` • `API Testing` • `Postman` • `Jira` • `Zephyr` • `Selenium` • `GitHub`
 
-- Functional testing
-- Positive and negative testing
-- Test scenario and test case design
-- Requirements-based testing
-- Exploratory testing
-- End-to-end checkout testing
-- Data consistency and calculation validation
-- Defect identification and reporting
-- Requirements traceability
-- Test summary reporting
-- Test evidence and documentation
+</div>
 
- ### API Testing
+## 👋 About Me
 
-I completed a hands-on REST API testing project using Postman and the JSONPlaceholder API.
+Quality Assurance professional with hands-on experience in manual software testing, API testing, defect reporting, test case design, exploratory testing, and regression testing.
 
-- Tested CRUD operations using GET, POST, PATCH, and DELETE
-- Performed positive and negative API testing
-- Validated HTTP status codes including 200, 201, and 404
-- Validated JSON response data and required fields
-- Created JavaScript assertions in Postman
-- Executed the complete collection as a functional regression test
-- Achieved 13/13 passing automated assertions with 0 failures and 0 errors
+My cybersecurity background brings a security-minded perspective to software quality, with a focus on finding issues, validating expected behavior, and helping deliver reliable user experiences.
 
-📁 [View REST API Testing Project](02-API-Testing) 
+## 🧰 Technical Toolkit
 
-Additional projects covering SQL/database validation, test automation, and cybersecurity labs will be added as the portfolio develops.
+| 🐞 QA & Testing | 🌐 API Testing | 🛠️ Tools | 🔐 Security |
+|---|---|---|---|
+| Manual Testing | REST APIs | Jira | Wireshark |
+| Functional Testing | Postman | Zephyr | NIST Framework |
+| Regression Testing | JSON | Selenium | Security Concepts |
+| Exploratory Testing | CRUD Operations | Katalon Studio | Cybersecurity Fundamentals |
+| UAT | HTTP Status Codes | GitHub | Security-Minded Testing |
+| Test Case Design | Response Validation | Loom |  |
+
+## ⭐ Featured QA Projects
+
+| 🛒 **SauceDemo Manual QA** | 🌐 **REST API Testing** |
+|---|---|
+| End-to-end testing of an e-commerce web application | REST API testing using Postman & JSONPlaceholder |
+| ✅ Functional & Regression Testing | ✅ GET, POST, PATCH & DELETE |
+| ✅ Positive & Negative Testing | ✅ Positive & Negative API Testing |
+| ✅ Exploratory Testing | ✅ HTTP Status Code Validation |
+| ✅ Defect Reporting | ✅ JSON Response Validation |
+| ✅ Requirements Traceability | ✅ JavaScript Assertions |
+| ✅ Test Evidence & Documentation | ✅ Functional Regression Run |
+| **📁 [View Manual QA Project](01-Manual-Testing)** | **📁 [View API Testing Project](02-API-Testing)** |
+| **Complete QA Test Cycle** | **13/13 Assertions Passed** |
+
+### 🚧 Portfolio Roadmap
+
+| Project | Status |
+|---|---|
+| 🐞 Manual QA Testing | ✅ Completed |
+| 🌐 REST API Testing | ✅ Completed |
+| 🗄️ SQL / Database Validation | 🔨 Building Next |
+| 🤖 Test Automation | ⏳ Planned |
+| 🔐 Cybersecurity Home Lab | ⏳ Planned |
+
+
 
 ## ⭐ Featured Project — SauceDemo Manual QA
 
