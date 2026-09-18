@@ -48,3 +48,28 @@ Testing included CRUD operations, data filtering, NULL validation, duplicate pri
 During database validation, a reservation record was identified with a NULL guest name even though the business requirement states that every reservation should contain a guest name.
 
 The SQL query successfully identified the record, resulting in a **FAIL** for the data-quality requirement. This demonstrates how database testing can identify data integrity issues that may not be immediately visible through the user interface.
+
+## Test Evidence
+
+Execution evidence from MySQL Workbench is included below.
+
+### DB-TC-001 — Party Size Constraint Validation
+Invalid `party_size = 0` was rejected by the database as expected.
+
+➡️ [View Constraint Validation Evidence](Evidence/DB-TC-001-Party-Size-Constraint-Validation.png)
+
+### DB-TC-003 — NULL Guest Name Validation
+Database validation identified one reservation containing a NULL guest name, resulting in a data-quality FAIL.
+
+➡️ [View NULL Validation Evidence](Evidence/DB-TC-003-NULL-Guest-Name-Validation.png)
+
+### DB-TC-004 — JOIN Validation
+Reservation records were successfully joined with their corresponding restaurant details, returning 7 matching records.
+
+➡️ [View JOIN Validation Evidence](Evidence/DB-TC-004-JOIN-Validation.png)
+
+## SQL Script
+
+The complete SQL script used to create, query, update, validate, and test the database is available here:
+
+➡️ [View Disney QA Database Testing SQL Script](Disney_QA_Database_Testing.sql)
