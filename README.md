@@ -10,7 +10,7 @@
 
 ---
 
-`Manual Testing` • `API Testing` • `Postman` • `Jira` • `Zephyr` • `Selenium` • `GitHub`
+Manual Testing • API Testing • SQL • MySQL • Postman • Jira • Zephyr • Selenium • GitHub
 
 </div>
 
@@ -29,6 +29,7 @@ My cybersecurity background brings a security-minded perspective to software qua
 | Regression Testing | JSON | Selenium | Security Concepts |
 | Exploratory Testing | CRUD Operations | Katalon Studio | Cybersecurity Fundamentals |
 | UAT | HTTP Status Codes | GitHub | Security-Minded Testing |
+| Database Testing | SQL / MySQL | MySQL Workbench | Data Integrity Validation |
 | Test Case Design | Response Validation | Loom |  |
 
 ## ⭐ Featured QA Projects
@@ -45,13 +46,29 @@ My cybersecurity background brings a security-minded perspective to software qua
 | **📁 [View Manual QA Project](01-Manual-Testing)** | **📁 [View API Testing Project](02-API-Testing)** |
 | **Complete QA Test Cycle** | **13/13 Assertions Passed** |
 
+### 🗄️ SQL Database Testing — Disney Reservations
+
+Hands-on database testing project using **MySQL and MySQL Workbench** to validate data integrity, business rules, constraints, and relationships between tables.
+
+**Testing demonstrated:**  
+`CRUD` • `SELECT` • `WHERE` • `LIKE` • `ORDER BY` • `COUNT` • `GROUP BY` • `NULL Validation` • `PRIMARY KEY` • `CHECK Constraints` • `JOINs`
+
+**QA Highlights:**  
+✅ Validated database business rules  
+✅ Tested PRIMARY KEY and CHECK constraints  
+🐞 Identified a NULL guest-name data-quality failure  
+✅ Validated relationships between reservation and restaurant tables  
+📸 Documented MySQL Workbench execution evidence
+
+➡️ **[View SQL Database Testing Project](03-SQL-Database-Testing)**
+
 ### 🚧 Portfolio Roadmap
 
 | Project | Status |
 |---|---|
 | 🐞 Manual QA Testing | ✅ Completed |
 | 🌐 REST API Testing | ✅ Completed |
-| 🗄️ SQL / Database Validation | 🔨 Building Next |
+| SQL / Database Validation | ✅ Completed |
 | 🤖 Test Automation | ⏳ Planned |
 | 🔐 Cybersecurity Home Lab | ⏳ Planned |
 
@@ -78,7 +95,7 @@ The defect was reproduced **2 out of 2 attempts** and documented with reproducti
 
 ### 🚀 Building My QA Career One Project at a Time
 
-**Manual QA ✅ • API Testing ✅ • SQL 🔨 • Automation ⏳ • Cybersecurity 🔐**
+**Manual QA ✅ • API Testing ✅ • SQL ✅ • Automation ⏳ • Cybersecurity 🔐**
 
 *Focused on practical testing skills I can demonstrate, explain, and apply in real software environments.*
 
